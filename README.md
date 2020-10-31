@@ -1,4 +1,4 @@
-# Siggy Secular Survival Mod
+# Vintage Overhaul Mod
 
 ## Extended Crop Growth
 Since, by default, there are 12 days per month (144 per year). To convert real world days to in game days it is (Real Word Days x 0.394). 0.395 is 144 / 365.25
