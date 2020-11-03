@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/attributes/tickGrowthProbability",
+    "value": 0.005,
+    "file": "game:blocktypes/plant/crop/turnip.json"
+  },
+  {
+    "op": "replace",
+    "path": "/cropProps/totalGrowthDays",
+    "value": 17.8,
+    "file": "game:blocktypes/plant/crop/turnip.json"
+  }
+]

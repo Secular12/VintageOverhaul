@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/attributes/tickGrowthProbability",
+    "value": 0.005,
+    "file": "game:blocktypes/plant/crop/soybean.json"
+  },
+  {
+    "op": "replace",
+    "path": "/cropProps/totalGrowthDays",
+    "value": 47.3,
+    "file": "game:blocktypes/plant/crop/soybean.json"
+  }
+]

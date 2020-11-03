@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/attributes/tickGrowthProbability",
+    "value": 0.005,
+    "file": "game:blocktypes/plant/crop/onion.json"
+  },
+  {
+    "op": "replace",
+    "path": "/cropProps/totalGrowthDays",
+    "value": 54.2,
+    "file": "game:blocktypes/plant/crop/onion.json"
+  }
+]
